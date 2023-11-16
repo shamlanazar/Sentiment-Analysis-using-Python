@@ -5,8 +5,6 @@ This project focuses on sentiment analysis using Python, leveraging key librarie
 
 
 ## Modules Used
-Pandas: Used for data manipulation and analysis.
-
-Matplotlib: Employed for data visualization and plotting.
-
+Pandas: Used for data manipulation and analysis.\\
+Matplotlib: Employed for data visualization and plotting.\\
 TensorFlow: Applied for building and training the sentiment analysis model.
